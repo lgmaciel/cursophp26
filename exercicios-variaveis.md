@@ -7,7 +7,7 @@
    Declare uma variável com um valor string e use `var_dump()` para exibir seu conteúdo e tipo.
 
 3. **Exercício 3**  
-   Crie um array com três números inteiros e exiba o tipo da variável usando `gettype()`.
+   Crie uma variável que contenha um array com três números inteiros e exiba o tipo da variável usando `gettype()`.
 
 4. **Exercício 4**  
    Verifique se uma variável é um array usando a função `is_array()`.
