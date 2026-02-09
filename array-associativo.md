@@ -21,15 +21,15 @@ $nome_do_array = [
 ### Exemplo 1: Criando e Acessando um Array Associativo
 
 ```php
-$dados_pessoa = [
-    "nome" => "João",
-    "idade" => 25,
-    "cidade" => "São Paulo"
+$produto = [
+    "id" => 12366,
+    "valor" => 25.5,
+    "descricao" => "Sabão"
 ];
 
-echo "Nome: " . $dados_pessoa["nome"] . PHP_EOL;
-echo "Idade: " . $dados_pessoa["idade"] . PHP_EOL;
-echo "Cidade: " . $dados_pessoa["cidade"] . PHP_EOL;
+echo "id: " . $produto["id"] . PHP_EOL;
+echo "valor: " . $produto["valor"] . PHP_EOL;
+echo "descrição: " . $produto["descricao"] . PHP_EOL;
 ```
 
 ### Exemplo 2: Iterando sobre um Array Associativo
