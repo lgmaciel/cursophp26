@@ -5,4 +5,4 @@ Conteúdo extra
 
 Exercícios
 - [Variáveis e tipos](exercicios-variaveis.md)
-- [Arrays associtivos](exercicios-array-associativo.md)
+- [Arrays associativos](exercicios-array-associativo.md)
