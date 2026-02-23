@@ -15,3 +15,4 @@ Os exemplos estão no diretório "exemplos".
 - [Variáveis e tipos](exercicios-variaveis.md)
 - [Arrays associtivos](exercicios-array-associativo.md)
 - [Consulta simples](exercicio-consulta01.md)
+- [$_GET e $_POST - 1](exercicios-get-post.md)
