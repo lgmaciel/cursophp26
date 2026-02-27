@@ -1,4 +1,5 @@
 <?php
+//iniciar/recuperar sessão
 session_start();
 $nome = isset($_SESSION['nome']) ? $_SESSION['nome'] : '';
 $classe = isset($_SESSION['classe'])? $_SESSION['classe'] : '';
